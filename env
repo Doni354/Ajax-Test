@@ -30,11 +30,12 @@
 # DATABASE
 #--------------------------------------------------------------------
 
-# database.default.hostname = localhost
-# database.default.database = ci4
-# database.default.username = root
-# database.default.password = root
-# database.default.DBDriver = MySQLi
+database.default.hostname = localhost
+database.default.database = wisata_ci4
+database.default.username = root
+database.default.password =
+database.default.DBDriver = MySQLi
+
 # database.default.DBPrefix =
 # database.default.port = 3306
 
